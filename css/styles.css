@@ -1,0 +1,12 @@
+#result {
+  display: none;
+
+}
+
+body {
+  text-align: center;
+}
+
+.numbers {
+  max-width: 500px;
+}
