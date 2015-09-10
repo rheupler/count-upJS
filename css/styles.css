@@ -9,4 +9,6 @@ body {
 
 .numbers {
   max-width: 500px;
+  display: inline-block;
+  word-wrap: break-word;
 }
